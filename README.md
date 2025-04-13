@@ -1,10 +1,14 @@
-# 🛡️ PasteGuard — Prevent Address Poisoning Scams in Crypto
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76f26cdc-b9b3-481c-b39d-8e03bfd1ba95" alt="ClipShield Banner" width="100"/>
+</p>
 
-![PasteGuard Banner](https://github.com/user-attachments/assets/96b8e819-262c-45bb-bc08-a0d01f813d60)
+# 🛡️ ClipShield — Prevent Address Poisoning Scams in Crypto
 
-[**PasteGuard**](https://medium.com/@gracious09/address-poisoning-in-defi-a-case-study-of-the-florence-finance-exploit-87c7047a8806) is a lightweight, offline tool that protects crypto users from **address poisoning attacks** — a growing scam tactic where attackers trick users into pasting fake wallet addresses that look nearly identical to legitimate ones. PasteGuard monitors your clipboard in real-time and alerts you when a suspicious or lookalike address is detected, giving you an extra layer of safety for every transaction.
 
-> 🔒 **Your clipboard is sacred. PasteGuard keeps it clean.**
+
+**ClipShield** is a lightweight, offline tool that protects crypto users from **address poisoning attacks** — a growing scam tactic where attackers trick users into pasting fake wallet addresses that look nearly identical to legitimate ones. ClipShield monitors your clipboard in real-time and alerts you when a suspicious or lookalike address is detected, giving you an extra layer of safety for every transaction.
+
+> 🔒 **Your clipboard is sacred. ClipShield keeps it clean.**
 
 ---
 
@@ -14,7 +18,7 @@
   Detects lookalike wallet addresses that resemble your saved trusted addresses — in real-time.
 
 - **⚙️ Completely Offline & Private**  
-  PasteGuard works 100% locally on your machine. No internet connection is required. No clipboard data is ever logged, transmitted, or stored.
+  ClipShield works 100% locally on your machine. No internet connection is required. No clipboard data is ever logged, transmitted, or stored.
 
 - **🧾 Trusted Address Book**  
   Add, label, and manage wallet addresses you trust (like your own or exchange wallets) for accurate detection.
@@ -29,7 +33,7 @@
 
 ## 📦 Download & Installation
 
-👉 **[Download the latest release](https://github.com/Greyshaws/PasteGuard/releases/latest)** from GitHub.
+👉 **[Download the latest release](https://github.com/Greyshaws/ClipShield/releases/latest)** from GitHub.
 
 ### ✅ Currently supported:
 - Windows
@@ -40,9 +44,9 @@
 
 ## 🧑‍💻 How It Works
 
-1. **Install PasteGuard** on your desktop.
+1. **Install ClipShield** on your desktop.
 2. **Set your trusted addresses** in the app (e.g., your wallet or exchange addresses).
-3. **PasteGuard monitors your clipboard** in real-time and compares copied addresses.
+3. **ClipShield monitors your clipboard** in real-time and compares copied addresses.
 4. If a suspicious address is detected, **you get an instant alert** before it's too late.
 
 ---
@@ -65,11 +69,11 @@ Address poisoning is a subtle but highly effective scam where attackers send tra
 
 ## 🙋 FAQs
 
-### Does PasteGuard need internet to work?
-**No.** PasteGuard is 100% offline, making it private and secure.
+### Does ClipShield need internet to work?
+**No.** ClipShield is 100% offline, making it private and secure.
 
 ### Does it modify my clipboard?
-**Absolutely not.** PasteGuard is strictly read-only and does not alter clipboard content.
+**Absolutely not.** ClipShield is strictly read-only and does not alter clipboard content.
 
 ### Is it open source?
 The code will be open-sourced soon for transparency and community contribution.
@@ -78,7 +82,7 @@ The code will be open-sourced soon for transparency and community contribution.
 
 ## ❤️ Contributing
 
-Want to help improve PasteGuard or suggest a feature? Contributions are welcome!
+Want to help improve ClipShield or suggest a feature? Contributions are welcome!
 
 1. Fork the repo
 2. Create your feature branch (`git checkout -b feature/something`)
@@ -90,7 +94,7 @@ Want to help improve PasteGuard or suggest a feature? Contributions are welcome!
 
 ## 👩🏽‍💻 About the Creator
 
-Hi 🙋🏽‍♀️. I'm [Gracious Igwe](https://www.linkedin.com/in/gracious-igwe-105a63b8/), a blockchain security analyst passionate about protecting users in the web3 space. PasteGuard is built with love ❤️ (and frustration over address poisoning scams 😤).
+Hi 🙋🏽‍♀️. I'm [Gracious Igwe](https://www.linkedin.com/in/gracious-igwe-105a63b8/), a blockchain security analyst passionate about protecting users in the web3 space. ClipShield is built with love ❤️ (and frustration over address poisoning scams 😤).
 
 
 ---
