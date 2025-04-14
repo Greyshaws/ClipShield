@@ -29,6 +29,8 @@
 - **🔗 Multi-Chain Support**  
   Detects scam attempts across Ethereum (ETH), Bitcoin (BTC), and Binance Smart Chain (BSC). More chains coming soon.
 
+  **[Read blog post here](https://medium.com/@gracious09/protect-your-funds-from-address-poisoning-scams-with-clipshield-68d7a4669528)**
+
 ---
 
 ## 📦 Download & Installation
