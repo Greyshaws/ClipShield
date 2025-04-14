@@ -4,18 +4,18 @@
 
 # 🛡️ ClipShield — Prevent Address Poisoning Scams in Crypto
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/414357bb-eb83-4fbb-8b33-e66539d5f4ac" alt="ClipShield Demo" />
+</p>
 
-
-**ClipShield** is a lightweight, offline tool that protects crypto users from **address poisoning attacks** — a growing scam tactic where attackers trick users into pasting fake wallet addresses that look nearly identical to legitimate ones. ClipShield monitors your clipboard in real-time and alerts you when a suspicious or lookalike address is detected, giving you an extra layer of safety for every transaction.
-
-> 🔒 **Your clipboard is sacred. ClipShield keeps it clean.**
+**ClipShield** is a lightweight, offline tool that protects crypto users from **address poisoning attacks** — a growing scam tactic where attackers trick users into copying fake wallet addresses that look nearly identical to legitimate ones. ClipShield monitors your clipboard in real-time and alerts you when you copy an address that is similar to an address you have copied previously, giving you an extra layer of safety for every transaction.
 
 ---
 
 ## 🚀 Features
 
 - **🧠 Address Similarity Detection**  
-  Detects lookalike wallet addresses that resemble your saved trusted addresses — in real-time.
+  Using an address similarity scoring mechanism, the app alerts you when it detects deceptive visual patterns between addresses you have copied.
 
 - **⚙️ Completely Offline & Private**  
   ClipShield works 100% locally on your machine. No internet connection is required. No clipboard data is ever logged, transmitted, or stored.
@@ -102,3 +102,9 @@ Hi 🙋🏽‍♀️. I'm [Gracious](https://www.linkedin.com/in/gracious-igwe-1
 ## 🛠 License
 
 MIT License — Free to use, contribute, and improve.
+
+---
+
+## 📎 Assets & Attribution
+
+- 🛡️ **Defence icon** used in this project is created by [iconmas - Flaticon](https://www.flaticon.com/free-icons/defence)
