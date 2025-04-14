@@ -8,7 +8,7 @@
   <img src="https://github.com/user-attachments/assets/414357bb-eb83-4fbb-8b33-e66539d5f4ac" alt="ClipShield Demo" />
 </p>
 
-**ClipShield** is a lightweight, offline tool that protects crypto users from **address poisoning attacks** — a growing scam tactic where attackers trick users into copying fake wallet addresses that look nearly identical to legitimate ones. ClipShield monitors your clipboard in real-time and alerts you when you copy an address that is similar to an address you have copied previously, giving you an extra layer of safety for every transaction.
+**ClipShield** is a lightweight, offline tool that protects crypto users from **address poisoning attacks** — a growing scam tactic where attackers trick users into copying fake wallet addresses that look nearly identical to legitimate ones. ClipShield monitors your clipboard in real-time and alerts you when a newly copied address closely resembles one you've copied before, giving you an extra layer of safety for every transaction.
 
 ---
 
