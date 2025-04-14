@@ -107,4 +107,4 @@ MIT License — Free to use, contribute, and improve.
 
 ## 📎 Assets & Attribution
 
-- 🛡️ **Defence icon** used in this project is created by [iconmas - Flaticon](https://www.flaticon.com/free-icons/defence)
+- 🛡️ **Icon** used in this project is created by [iconmas - Flaticon](https://www.flaticon.com/free-icons/defence)
