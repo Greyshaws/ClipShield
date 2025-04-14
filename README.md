@@ -75,9 +75,6 @@ Address poisoning is a subtle but highly effective scam where attackers send tra
 ### Does it modify my clipboard?
 **Absolutely not.** ClipShield is strictly read-only and does not alter clipboard content.
 
-### Is it open source?
-The code will be open-sourced soon for transparency and community contribution.
-
 ---
 
 ## ❤️ Contributing
