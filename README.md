@@ -94,7 +94,7 @@ Want to help improve ClipShield or suggest a feature? Contributions are welcome!
 
 ## 👩🏽‍💻 About the Creator
 
-Hi 🙋🏽‍♀️. I'm [Gracious Igwe](https://www.linkedin.com/in/gracious-igwe-105a63b8/), a blockchain security analyst passionate about protecting users in the web3 space. ClipShield is built with love ❤️ (and frustration over address poisoning scams 😤).
+Hi 🙋🏽‍♀️. I'm [Gracious](https://www.linkedin.com/in/gracious-igwe-105a63b8/), a blockchain security analyst passionate about protecting users in the web3 space. ClipShield is built with love ❤️ (and frustration over address poisoning scams 😤).
 
 
 ---
